@@ -1,4 +1,4 @@
-import course_python_3.Constantes as Constantes
+import  Constantes
 print('Hola Mundo')
 nombre = 'Ciro'
 print(nombre)
